@@ -1,0 +1,40 @@
+{
+  "name": "health",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "bluebird": "^3.5.1",
+    "bson": "^1.0.9",
+    "debug": "^3.1.0",
+    "express": "^4.16.4",
+    "kareem": "^2.3.0",
+    "lodash": "^4.17.11",
+    "lodash.get": "^4.4.2",
+    "memory-pager": "^1.1.0",
+    "mongodb": "^3.1.6",
+    "mongodb-core": "^3.1.5",
+    "mongoose": "^5.3.9",
+    "mongoose-legacy-pluralize": "^1.0.2",
+    "mpath": "^0.5.1",
+    "mquery": "^3.2.0",
+    "ms": "^2.0.0",
+    "node": "^10.4.1",
+    "regexp-clone": "^0.0.1",
+    "require_optional": "^1.0.1",
+    "resolve-from": "^2.0.0",
+    "safe-buffer": "^5.1.2",
+    "saslprep": "^1.0.2",
+    "semver": "^5.6.0",
+    "sliced": "^1.0.1",
+    "sparse-bitfield": "^3.0.3",
+    "supertest": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shailynn Race",
+  "license": "ISC",
+  "description": ""
+}
